@@ -151,23 +151,27 @@ Contributions are welcome! Feel free to:
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ```
-MIT License · Copyright (c) 2026 Krishna Chand (krishnachand-glitch)
+MIT License · Copyright (c) 2026 Krishna Chand & Vibhanshu Mishra
 ```
 
 You are free to use, modify, distribute, and sell this software. See the full license text in the [LICENSE](LICENSE) file.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Krishna Chand**
 - 🐙 GitHub: [@krishnachand-glitch](https://github.com/krishnachand-glitch)
-- 📦 Repository: [PulseTrack](https://github.com/krishnachand-glitch/PulseTrack)
+
+**Vibhanshu Mishra**
+- 🐙 GitHub: [@VibhanshuMishra11](https://github.com/VibhanshuMishra11)
+
+📦 Repository: [PulseTrack](https://github.com/krishnachand-glitch/PulseTrack)
 
 ---
 
 <p align="center">
-  Made with ❤️ and JavaScript by <a href="https://github.com/krishnachand-glitch">Krishna Chand</a>
+  Made with ❤️ and JavaScript by <a href="https://github.com/krishnachand-glitch">Krishna Chand</a> & <a href="https://github.com/VibhanshuMishra11">Vibhanshu Mishra</a>
   <br>
   <strong>⭐ Star this repo if you found it helpful!</strong>
 </p>
